@@ -9,6 +9,7 @@ upload/*
 # Ignore AOD indexes
 modules/AOD_Index/Index/*
 install/status.json
+SuiteCRM-8.2.4.zip
 upload1/*
 # Configuration files should be ignored.
 #/config.php
